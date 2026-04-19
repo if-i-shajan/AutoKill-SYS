@@ -10,7 +10,7 @@ A powerful terminal-based process management utility written in Bash that monito
 
 </div>
 
-## Notice
+## System Overview
 
 ![System Overview](images/system%20overview.png)
 
