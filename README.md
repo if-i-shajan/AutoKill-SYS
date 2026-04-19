@@ -195,11 +195,20 @@ Contributions are welcome! Please feel free to:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👨‍💼 Author
+## 👥 Devs
 
-**Shajan** - CSE324 Operating Systems Lab Assignment
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/if-i-shajan">
+        <img src="https://github.com/if-i-shajan.png" width="100px" height="100px" style="object-fit:cover;" alt="Shajan"/>
+        <br/>
+        <b>J.M. Ifthakharul Islam Shajan</b>
+      </a>
+  </tr>
+</table>
 
-Created as part of the 7th Semester Operating Systems coursework.
+Created as part of the 7th Semester Operating Systems Lab coursework.
 
 ## 🙏 Acknowledgments
 
@@ -210,7 +219,7 @@ Created as part of the 7th Semester Operating Systems coursework.
 ## 📮 Contact & Support
 
 For questions, issues, or feedback:
-- 📧 Email: [Your Email]
+- 📧 Email:  jmifthakharul.shajan@gmail.com
 - 🐛 Issues: [GitHub Issues](https://github.com/if-i-shajan/AutoKill-SYS/issues)
 
 ---
