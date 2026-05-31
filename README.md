@@ -227,14 +227,11 @@ Created as part of the 7th Semester Operating Systems Lab coursework.
 
 For questions, issues, or feedback:
 - 📧 Email:  jmifthakharul.shajan@gmail.com
-- 🐛 Issues: [GitHub Issues](https://github.com/if-i-shajan/AutoKill-SYS/issues)
 
 ---
 
 <div align="center">
 
 **Made with ❤️ for the Linux Community**
-
-[⬆ Back to Top](#autokillsys---process-management--auto-kill-system)
 
 </div>
