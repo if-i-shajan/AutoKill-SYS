@@ -10,6 +10,19 @@ A powerful terminal-based process management utility written in Bash that monito
 
 </div>
 
+## 👥 Dev
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/if-i-shajan">
+        <img src="https://github.com/if-i-shajan.png" width="100px" height="100px" style="object-fit:cover;" alt="Shajan"/>
+        <br/>
+        <b>J.M. Ifthakharul Islam Shajan</b>
+      </a>
+  </tr>
+</table>
+
 ## System Overview
 
 ![System Overview](images/system%20overview.png)
@@ -199,18 +212,6 @@ Contributions are welcome! Please feel free to:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👥 Dev
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/if-i-shajan">
-        <img src="https://github.com/if-i-shajan.png" width="100px" height="100px" style="object-fit:cover;" alt="Shajan"/>
-        <br/>
-        <b>J.M. Ifthakharul Islam Shajan</b>
-      </a>
-  </tr>
-</table>
 
 Created as part of the 7th Semester Operating Systems Lab coursework.
 
