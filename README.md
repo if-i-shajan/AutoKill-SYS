@@ -10,6 +10,11 @@ A powerful terminal-based process management utility written in Bash that monito
 
 </div>
 
+## System Overview
+
+![System Overview](images/system%20overview.png)
+
+
 ## 👥 Dev
 
 <table>
@@ -23,9 +28,6 @@ A powerful terminal-based process management utility written in Bash that monito
   </tr>
 </table>
 
-## System Overview
-
-![System Overview](images/system%20overview.png)
 
 ## 🌟 Features
 
